@@ -1,12 +1,6 @@
 
 
 
-a=1
-b=4
-
-c=a==b
-printI(c)
-
 df  future_age(age):
   new_age=age+20
   return new_age
