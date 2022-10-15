@@ -13,6 +13,10 @@ df  future_age(age):
 future_predicted_age=future_age(18)
 print(future_predicted_age)
   
+  
+  import mymodule
+  ubaid=mymodule.squ(2)
+  print(ubaid)
 
 
 
